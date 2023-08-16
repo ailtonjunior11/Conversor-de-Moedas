@@ -1,0 +1,134 @@
+* {
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    outline: none;
+
+}
+
+body {
+
+    background: rgb(109, 22, 22);
+
+}
+
+
+.logo {
+
+    width: 300px;
+    display: block;
+    margin: 20px auto;
+}
+
+main {
+
+    width: 375px;
+    background: #F4F4F4;
+    border-radius: 20px;
+    margin: 0 auto 40px;
+    padding: 44px 24px 23px;
+
+}
+
+label {
+
+    font-size: 14px;
+    font-weight: 400;
+    color: #BBBBBB;
+
+}
+
+select,
+input {
+
+    background: #ffffff;
+    border-radius: 4px;
+    border: 1px solid #BBBBBB;
+    height: 48px;
+    width: 100%;
+    margin-bottom: 25px;
+    margin-top: 8px;
+    cursor: pointer;
+    appearance: none;
+    padding-left: 18px;
+    font-weight: 700;
+    font-size: 16px;
+    Line-height: 18px;
+    color: #555555;
+
+}
+
+input {
+
+    cursor: text;
+}
+
+.convert-button {
+
+    width: 100%;
+    height: 48px;
+    background: rgb(194, 48, 48);
+    border-radius: 5px;
+    border: none;
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+
+button:hover {
+
+    opacity: 0.8;
+
+}
+
+button:active {
+
+    opacity: 0.6;
+
+}
+
+section {
+
+    border-radius: 20px;
+    border: 1px solid rgb(194, 48, 48);
+    margin-top: 35px;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.arrow-img {
+
+    margin: 15px 0;
+}
+
+.currency-box {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+
+}
+
+.currency {
+
+
+    font-size: 14px;
+    color: #777777;
+
+}
+
+.currency-value, .currency-value-to-convert {
+
+    font-weight: 700;
+    font-size: 20px;
+    color: #555555;
+
+}
