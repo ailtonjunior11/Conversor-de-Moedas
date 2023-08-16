@@ -10,4 +10,4 @@ como buscar valores, trocar valores e as funções de qualquer elemento.</h2>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <br>
-<img src="https://github.com/ailtonjunior11/Conversor-de-Moedas/blob/main/assets/conversor.jpg?raw=true">
+<img src="https://raw.githubusercontent.com/ailtonjunior11/Conversor-de-Moedas/fbe1080ad9f53e5757de002d6caba7fbdcf7aacf/assets/conv2.jpg">
