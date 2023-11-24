@@ -60,7 +60,7 @@ function changeCurrency() {
 
     if (currencySelect.value == "dolar") {
 
-        currencyName.innerHTML = "Dólar americano"
+        currencyName.innerHTML = "Dólar"
         currencyImage.src = "./assets/logo-estados-unidos.png"
 
     }
