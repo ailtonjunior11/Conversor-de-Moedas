@@ -26,11 +26,11 @@ div {
 
 main {
 
-    height: 460px;
-    width: 300px;
+    height: 480px;
+    width: 340px;
     border-radius: 5px;
     margin: 85px auto 40px;
-    padding: 10px;
+    padding: 15px;
     background: rgba(0, 0, 0, 0.548);
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(3.4px);
@@ -112,7 +112,7 @@ section {
 
 .arrow-img {
 
-    margin: 8px 20px 0 20px;
+    margin: 8px 10px 0 10px;
 }
 
 .currency-box {
@@ -139,4 +139,39 @@ section {
     font-size: 20px;
     color: #ffffff;
 
+}
+
+@media screen and (max-width: 400px) {
+
+    body {
+
+        background-image: url(./assets/background-mobile.jpeg);
+        background-position: center;
+        background-size: cover;
+    }
+
+    main {
+
+        height: 80%;
+        width: 78%;
+        padding: 20px;
+    }
+
+    section {
+
+        padding: 30px;
+        border: none;
+        background: none;
+    }
+
+    .arrow-img {
+
+        margin: 8px 35px 0 0px;
+        height: 25px;
+    }
+
+    .currency-box {
+
+        margin-left: -30px;
+    }
 }
