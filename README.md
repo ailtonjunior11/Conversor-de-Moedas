@@ -7,9 +7,9 @@ como buscar valores, trocar valores e as funções de qualquer elemento. Além d
 <h2>Principais tecnologias usadas nesse projeto foram 👇🏽</h2>
 <br>
 <p left="center">
-<img src="https://github.com/ailtonjunior11/Projeto-Portfolio/blob/main/assets/html5-logo.png?raw=true" height="70px" />
-<img src="https://github.com/ailtonjunior11/Projeto-Portfolio/blob/main/assets/css3-logo.png?raw=true" height="70px" />
-<img src="https://raw.githubusercontent.com/ailtonjunior11/Projeto-Portfolio/f683677a810569723abdb8c177210090ce0c2b5c/assets/javascript-logo.png" height="70px" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 <br>
 <h3>Desktop 💻</h3>
